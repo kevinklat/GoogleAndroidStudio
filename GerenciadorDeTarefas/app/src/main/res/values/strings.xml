@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Gerenciador de tarefas</string>
+    <string name="task_complete_txt">Todas tarefas concluídas!</string>
+    <string name="message_nice_txt">Bom trabalho!</string>
+</resources>

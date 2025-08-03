@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Quadrantes no Compose</string>
+    <string name="title_1">Composição de texto</string>
+    <string name="text_1">Exibe texto e segue as diretrizes recomendadas do Material Design.</string>
+    <string name="title_2">Imagem componível</string>
+    <string name="text_2">Cria uma imagem componível que cria e desenha um objeto da classe Painter.</string>
+    <string name="title_3">Composto de linha</string>
+    <string name="text_3">Um composto de layout que posiciona seus filhos em uma sequência horizontal.</string>
+    <string name="title_4">Coluna componível</string>
+    <string name="text_4">Um layout componível que posiciona seus filhos em uma sequência vertical.</string>
+</resources>
